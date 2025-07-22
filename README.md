@@ -1,0 +1,2 @@
+# Zomato-Restaurant-Cost-vs-Rating-Analysis-Cuisine-Insights
+This project analyzes real-world Zomato restaurant review data to help both customers and businesses understand the relationship between cost, ratings, and cuisines. It merges restaurant metadata with user reviews, cleans and prepares the data, and provides meaningful visualizations such as cost vs. rating scatterplots, cuisine trends etc
